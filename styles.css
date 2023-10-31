@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.flashcard {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+    display: block;
+}
+.definition {
+    display: none; /* Initially hide the definition */
+}
+
+.controls {
+    margin-top: 20px;
+}
+/* styles.css 파일 */
+.word {
+    font-size: 60px;
+}
